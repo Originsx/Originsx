@@ -1,0 +1,10 @@
+This is the official code for our IPBA on lifelabs 
+
+To make sure that everything is working properly follow this:
+
+-Make sure that you pick a specific location to extract the rar file because the images and the .html file 
+needs to be in one place for it to work
+ 
+Note: While I am typing this, I am praying that nothing bad happens to our website and wishing that we get a high grade
+
+That is all
